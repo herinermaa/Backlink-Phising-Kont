@@ -13,8 +13,10 @@ function getFileRowCount($filename)
 
     return $rowCount;
 }
+
 $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
 $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+
 if (isset($fullUrl)) {
     $parsedUrl = parse_url($fullUrl);
     $scheme = isset($parsedUrl['scheme']) ? $parsedUrl['scheme'] : '';
@@ -22,16 +24,26 @@ if (isset($fullUrl)) {
     $path = isset($parsedUrl['path']) ? $parsedUrl['path'] : '';
     $baseUrl = $scheme . "://" . $host . $path;
     $urlAsli = str_replace("get-sitemap.php", "", $baseUrl);
+    
+    // Write to robots.txt
     $robotsTxt = "User-agent: *" . PHP_EOL;
     $robotsTxt .= "Allow: /" . PHP_EOL;
     $robotsTxt .= "Sitemap: " . $urlAsli . "sitemap.xml" . PHP_EOL;
+    $robotsTxt .= "Sitemap: " . $urlAsli . "sitemap2.xml" . PHP_EOL; // Added sitemap2.xml
     file_put_contents('robots.txt', $robotsTxt);
+    
     $judulFile = "tebas.txt";
     $jumlahBaris = getFileRowCount($judulFile);
-    $sitemapFile = fopen("sitemap.xml", "w");
+    $fileLines = file($judulFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    
+    $maxUrlsPerFile = 1000; // Split after 1000 URLs
+    $fileCount = 1;
+    $sitemapFile = fopen("sitemap" . $fileCount . ".xml", "w");
+    
     fwrite($sitemapFile, '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL);
     fwrite($sitemapFile, '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL);
-    $fileLines = file($judulFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+
+    $counter = 0;
     foreach ($fileLines as $index => $judul) {
         $sitemapLink = $urlAsli . '?tebas=' . urlencode($judul);
         fwrite($sitemapFile, '  <url>' . PHP_EOL);
@@ -39,15 +51,31 @@ if (isset($fullUrl)) {
         date_default_timezone_set('Asia/Jakarta');
         $currentTime = date('Y-m-d\TH:i:sP');
         fwrite($sitemapFile, '    <lastmod>' . $currentTime . '</lastmod>' . PHP_EOL);
-		fwrite($sitemapFile, '    <changefreq>daily</changefreq>' . PHP_EOL);
+        fwrite($sitemapFile, '    <changefreq>daily</changefreq>' . PHP_EOL);
         fwrite($sitemapFile, '    <priority>1.0</priority>' . PHP_EOL);
         fwrite($sitemapFile, '  </url>' . PHP_EOL);
+
+        $counter++;
+
+        // Split after $maxUrlsPerFile URLs
+        if ($counter >= $maxUrlsPerFile) {
+            fwrite($sitemapFile, '</urlset>' . PHP_EOL);
+            fclose($sitemapFile);
+            
+            $fileCount++;
+            $sitemapFile = fopen("sitemap" . $fileCount . ".xml", "w");
+            fwrite($sitemapFile, '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL);
+            fwrite($sitemapFile, '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL);
+            $counter = 0;
+        }
     }
+
+    // Close the last sitemap file
     fwrite($sitemapFile, '</urlset>' . PHP_EOL);
-    fclose($sitemapFile);   
+    fclose($sitemapFile);
+
     echo "SITEMAP DONE CREATE!";
 } else {
     echo "URL saat ini tidak didefinisikan.";
 }
-
 ?>
