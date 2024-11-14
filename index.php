@@ -2,7 +2,7 @@
 function feedback404()
 {
     header("HTTP/1.0 404 Not Found");
-    echo "<h1>TEBAS ALGORITMA PHISING</h1>";
+    echo "<center><h1>TEBAS ALGORITMA PHISING</h1></center>";
 }
 
 if (isset($_GET['tebas'])) {
