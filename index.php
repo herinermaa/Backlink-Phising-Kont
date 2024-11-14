@@ -6,7 +6,7 @@ function feedback404()
 }
 
 if (isset($_GET['tebas'])) {
-    $filename = "tebas.txt";
+    $filename = "mantap.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     $target_string = strtolower($_GET['tebas']);
     foreach ($lines as $item) {
